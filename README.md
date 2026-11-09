@@ -53,7 +53,7 @@ git clone https://github.com/epettersenv-commits/-Actividad-Sumativa-Semana-3-De
 
 ---
 
-**Repositorio GitHub:** [Pega aquí el enlace al repositorio]
+**Repositorio GitHub:** https://github.com/epettersenv-commits/-Actividad-Sumativa-Semana-3-Desarrollo-Orientado-a-Objetos-I
 **Fecha de entrega:** 09/11/2026]
 
 ---
