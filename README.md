@@ -42,7 +42,7 @@ El sistema aplica encapsulamiento (atributos privados con getters y setters), he
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/epettersenv-commits/-Actividad-Sumativa-Semana-3-Desarrollo-Orientado-a-Objetos-I
+git clone https://github.com/epettersenv-commits/Llanquihue-Tour
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -53,7 +53,7 @@ git clone https://github.com/epettersenv-commits/-Actividad-Sumativa-Semana-3-De
 
 ---
 
-**Repositorio GitHub:** https://github.com/epettersenv-commits/-Actividad-Sumativa-Semana-3-Desarrollo-Orientado-a-Objetos-I
+**Repositorio GitHub:** https://github.com/epettersenv-commits/Llanquihue-Tour
 **Fecha de entrega:** 09/11/2026]
 
 ---
