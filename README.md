@@ -24,7 +24,7 @@ El sistema aplica encapsulamiento (atributos privados con getters y setters), he
 ## 🧱 Estructura general del proyecto
 
 ```plaintext
-📁 src/main/java/cl/agencia/turismo/
+📁 src/cl/agencia/turismo/
 ├── app/
 │   └── Main.java            # Clase principal con el método main
 └── model/
@@ -42,7 +42,7 @@ El sistema aplica encapsulamiento (atributos privados con getters y setters), he
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone [Pega aquí el enlace del repositorio].git
+git clone https://github.com/epettersenv-commits/-Actividad-Sumativa-Semana-3-Desarrollo-Orientado-a-Objetos-I
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -50,8 +50,6 @@ git clone [Pega aquí el enlace del repositorio].git
 3. Ejecuta el archivo `Main.java` desde el paquete `cl.agencia.turismo.app` (clic derecho sobre el archivo → **Run 'Main.main()'**).
 
 4. Revisa la salida por consola: se muestran los datos de un empleado, un guía turístico y un cliente, y luego los cambios hechos con setters.
-
-Requiere JDK 11 o superior.
 
 ---
 
