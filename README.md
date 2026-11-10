@@ -54,7 +54,7 @@ git clone https://github.com/epettersenv-commits/Llanquihue-Tour
 ---
 
 **Repositorio GitHub:** https://github.com/epettersenv-commits/Llanquihue-Tour
-**Fecha de entrega:** 09/11/2026]
+**Fecha de entrega:** 09/11/2026
 
 ---
 
